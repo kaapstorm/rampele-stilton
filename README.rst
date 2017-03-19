@@ -4,7 +4,7 @@
    Rumpelstiltskin by Walter Crane (1886)
 
 Noah Rampele-Stilton retells the fairy tale Rumplestiltskin, by the Grimm 
-brothers, but in a modern context, and from the perspective of the princess.
+brothers, but in a modern context, and from the perspective of the queen.
 
 You can read it here_.
 
