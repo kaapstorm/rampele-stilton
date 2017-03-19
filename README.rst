@@ -1,4 +1,10 @@
-Noah Rampele-Stilton retells the fairy tale Rumplestiltskin, by the Grimm brothers, but from the perspective of the princess.
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/e/ee/Rumpelstiltskin-Crane1886.jpg
+   :alt: Rumpelstiltskin by Walter Crane (1886)
+
+   Rumpelstiltskin by Walter Crane (1886)
+
+Noah Rampele-Stilton retells the fairy tale Rumplestiltskin, by the Grimm 
+brothers, but in a modern context, and from the perspective of the princess.
 
 You can read it here_.
 
