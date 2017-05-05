@@ -29,7 +29,7 @@ Murraysfield in Edinburgh. He found that his seat was immediately in
 front of our own president, who was watching the game with an old friend
 of his whom my father did not recognise, and they were flanked by two
 bodyguards. My father was so impressed with himself that here he was,
-sitting just in front of his president. He was wracking his brain to
+sitting just in front of his president. He was racking his brain to
 think of something to say to introduce himself. He was listening to
 every word the president and his friend were saying to each other. There
 were not discussing politics. They were talking about their old school
@@ -77,7 +77,7 @@ as his could possibly be a liar or a cheat. He was into computers,
 security, and backend development. His head looked like it was carpeted
 in shaggy facial hair, with gaps for a pair of gentle eyes, and a big,
 open grin. His username was "cheesygeek" (which he spelled
-"ch33s33g33k"), but he said everyone called him "Anon" (Because it
+"ch33s33g33k"), but he said everyone called him "Anon" (because it
 alludes to "anonymous" but it means "soon", he explained.)
 
 I whatsapped him. I explained what my dad had done. He was, of course,
@@ -86,30 +86,30 @@ developments. He'd go and look into reputation management software, and
 he'd be happy to help me "throw something together".
 
 Everything went quiet for a couple of months, and then suddenly it was
-like everything was last minute. Isn't that how it always goes?
-
-I got a call from "the president's office". A man explained to me that I
-would be put up in a hotel from Friday evening to Sunday morning. By
-Sunday morning I will have deployed a blog, and a backend management
-system that lists all online reports about the president, and e-mails
-press releases to media outlets about positive news about the president.
-And there must be an authorisation system so the president can OK press
-releases from his phone. They would e-mail me a spec, "just some ideas",
-but I should "use my creativity" and "you know, make what a president
-would need, and expect". Oh, and "excellence should be your lodestar".
-"Lodestar"?! Clearly I hadn't got the memo on the new officespeak.
+like everything was last minute. Isn't that how it always goes? I got a
+call from "the president's office". A man explained to me that I would
+be put up in a hotel from Friday evening to Sunday morning. By Sunday
+morning I will have deployed a blog, and a backend management system
+that lists all online reports about the president, and e-mails press
+releases to media outlets about positive news about the president. And
+there must be an authorisation system so the president can OK press
+releases from his phone. They would e-mail me a spec, "just some
+ideas", but I should "use my creativity" and "you know, make what a
+president would need, and expect". Oh, and "excellence should be your
+lodestar". "Lodestar"?! Clearly I hadn't got the memo on the new
+officespeak.
 
 I whatsapped Anon immediately. He asked which hotel. He asked me to
-e-mail him the spec. He said I should find out what handset the
+email him the spec. He said I should find out what handset the
 president uses, and "please, God, tell me the president doesn't use IE".
 He said he'd take care of the backend, and that the front-end design
 would take the longest time (what?!) so I should get started on that
-imediately. And he said I shouldn't worry. This would be a breeze. That
+immediately. And he said I shouldn't worry. This would be a breeze. That
 we can work on this together. That it will be fun. He said "I'll see you
 Friday".
 
-Friday morning, I whatsapp him again. "When are we meeting?" He just
-replied, "Busy. See you later. I'll find you."
+Friday morning, I whatsapped him again. "When are we meeting?" He just
+replied, "busy cu later I'll find you"
 
 I was collected in one of those standard government-issue black Mercedes
 Benzes, and taken to a very nice hotel in the middle of the city. "Yes.
@@ -134,7 +134,8 @@ A knock came from the bedroom, and he walked into the lounge.
 
 "Hey, dude, where the? Where did you come from?"
 
-He grinned this big grin. "I have a friend. I was in the room nextdoor."
+He grinned this big grin. "I have a friend. I was in the room next
+door."
 
 "They said the floor was empty."
 
@@ -154,7 +155,7 @@ existing libraries. I just need a decent skin. How's the design?"
 "Well, I think I've got most of it done. We still need to cut it up for
 the backend, cos I didn't know what you've done."
 
-"Oh, that'll be OK. I'll help you. I'll go back nextdoor. You order a
+"Oh, that'll be OK. I'll help you. I'll go back next door. You order a
 big pizza, and 2 litres of Coke, and we'll hammer this out."
 
 "How do I thank you?"
@@ -173,13 +174,13 @@ you've got me out of. It's the least he can do."
 wrist a few times. It wasn't too loose and it wasn't too tight. It
 looked quite cool.
 
-I ordered the food while he slipped nextdoor, and we set to work. By 2
+I ordered the food while he slipped next door, and we set to work. By 2
 AM everything was done, and tested. By 4 AM it was deployed, and tested
 and tested again.
 
 I gave Anon a massive hug. He disappeared back where he came from, and I
-slept until 9. Then I had a shower, went downstairs for breakfast, and
-at 10 AM I demoed to the president.
+slept until 8. Then I had a shower, went downstairs for breakfast, and
+at 9 AM I demoed to the president.
 
 I was ridiculously nervous, but he was really friendly, and made a
 couple of lame jokes, and I laughed both from my nerves and from genuine
@@ -230,20 +231,429 @@ Holy shit! I needed Anon. I hated calling him like this -- just when I
 have a crisis. We'd met up for coffee after he rescued my ass last time,
 and we'd said we'd meet up again, but nothing happened after that.
 
-[...TODO...]
+I decided that if I get out of this one, I need to be a better friend.
+And not just "Oh, we should totally do something some time." Before I
+called him, I took out my phone, added a calendar reminder to "Phone
+Anon" every Monday night, and added "Go do something with Anon" every
+first Friday. That seemed reasonable. And if Fridays didn't work for
+him, we could change it.
+
+Then I dialled his number, and grovelled a little. I felt like last
+time he had gone way above and beyond, and this request would require
+even more work. But his response really took me by surprise: "Dude!" he
+said, "Last time was awesome! I got to write a cool project with a
+bunch of good friends online, and [cough] find my way into a hotel,
+and, not to be too soppy or anything, spend a really exciting evening
+working closely with an amazing woman."
+
+The nerd flirt made me feel a little awkward, but also kinda warm
+inside, and I was very relieved that his experience was positive, and
+that it looked like he'd be willing to got through it again. Very
+relieved. Also, awkward or not, he is lovely, and he made being a
+prisoner in a hotel for a weekend more than bearable. He made it cool.
+
+Because the project was more complex this time, we collaborated more on
+how people would use the site, the details of what functionality the
+site must offer, how the interface should work. This was not a weekend
+kind of job. A site like this takes months. And I suspect the
+president's office knew that, because they scheduled my weekend in the
+hotel for four months time.
+
+Anon and I worked solidly until then. We would meet at my flat first
+thing in the morning, and I'd drive through to class during the day in
+my little red Golf, and then I'd come straight back to work on the
+site. He and some friends built the server environment to be able to
+handle the load which the site would hopefully get. He and I worked on
+the interface, breaking down the components of the workflow to make
+sure users would never be waiting for the servers to update the
+interface.
+
+We built the system for nominating ideas for changes, and voting for
+them. We developed the facility to establish and support a community of
+users who would be able to moderate the site themselves. We built
+reporting functionality for the government and for users. And we built
+APIs so that other systems could integrate with ours.
+
+At first Anon spent 10 hours a day at my place. Then 16. For the last
+month he slept on my couch. We made a great team. We shared the
+cooking. He was genial, and funny. He kept our work area clean. He
+wasn't fastidious, but he was tidy. I liked having him around.
+
+Finally it was time to go to the hotel for the weekend when I was
+allegedly going to be doing all of the work, by myself.
+
+It was the same routine as last time. Same floor, same suite, same
+computers on the table. I never knew how he did it, but once again,
+half an hour after I arrived, Anon entered from the bedroom.
+
+We Monster-and-pizza-ed our way through the night, user-testing,
+fixing, load-testing, fixing, checking documentation, editing, testing,
+going through the presentation, testing, and more testing.
+
+We stopped at around 5 AM. We decided we had done everything we could
+do. We stepped away from our keyboards, he flopped onto the couch, and
+I flopped down next to him. We were physically tired, but there was no
+way we were going to be able to sleep.
+
+"Thank you," I said.
+
+"What?" he asked.
+
+"Thank you."
+
+"For what?"
+
+"For everything. For the last four months. For everything you've done.
+All the work. All the hours. Sleeping on my couch. This weekend.
+Everything."
+
+"Mela," he said, "I have never had this much fun ever. You are awesome.
+I really," a barely noticeable pause, but I noticed it, "really like
+you. It has been such a pleasure."
+
+"It has. But I want you to have something."
+
+"Why?"
+
+"Because I owe you so much, and I don't want to feel that way. And I've
+been thinking about this a lot. My dad is going to get a new job. And
+he will be able to afford a lot of things we couldn't afford before.
+But you've done all this and you're getting nothing for it. So ..."
+
+"So?"
+
+I was scratching in my bag.
+
+"So here are my car keys. We can sort out the paperwork on Monday, but
+here."
+
+"What?!"
+
+"Don't argue with me. Take my car. You have earned much more than this."
+
+"How can I take your car?"
+
+"My dad owes me a new one, at the very least. I should really be giving
+you a new one. But this is what I've got right now, and I want, no, I
+insist, that you take this one. I will not discuss this. It is yours
+now. I'm going to Uber back to my place, so you can leave it in the
+parking garage if you want. But it's yours now."
+
+"Wow, Mela. Uh ... Wow. Thank you. I never expected this."
+
+"Well let's hope the President doesn't get any more ideas, because I
+have nothing else to give you." I grinned.
+
+He grinned.
+
+I knew what he was grinning about. Those eyes of his; part puppy, part
+fox. I wondered whether he knew that my grin was the same grin.
+
+We went quiet. We looked at the vase on the table. Maybe both of us
+were thinking about each other's grins.
+
+"I guess you should go back home in the morning," I said.
+
+"I guess so," he responded.
+
+The President loved the hand-over. I had breakfast at 8 AM, and went
+through to the conference facilities at 9, where I presented the site
+to him and two other ministers. The president and the ministers were
+full of praise. Afterwards they shook my hand, by the president gave me
+a hug. His cologne smelled of cinnamon and frankincense; venerable, and
+familiar. He had a charisma about him. His approval and affection felt
+like my reward, and won him my admiration.
+
+The Office of the Presidency scheduled training, and I taught a team of
+administrators how the site administration worked. The government
+marketed it heavily, to much public praise. The demand jumped right up
+on launch day. The servers scaled automatically, perfectly,
+beautifully. The site remained responsive. The President phoned me to
+thank me. My dad took me out for a slap-up meal. He was overjoyed. He
+told me about his new job. His big office. His security detail. His
+driver. His Merc. I asked for a new car. He didn't even blink. "Of
+course, sweetie. I owe this all to you. What would you like?"
+
+I got a Nissan Leaf -- a cute little electric hatch. I got it in green.
+I thought that was appropriate. I stuck an Apple logo on the back
+window. I loved my new car.
+
+I took Anon out for dinner. He picked me up in my old Golf. There was
+something comfortable and familiar about it. And comfortable and
+familiar about Anon, too. Even though we had been chatting a lot over
+WhatsApp, I missed having him around. My couch was cold since he left.
 
 
 The Third Task
 --------------
 
-[...TODO...]
+A couple of months later I got a call from a number that wasn't in my
+contacts. I was making supper and my hands had mince on them. I let it
+ring. The number called again. I watched my phone, wondering whether to
+answer. I washed my hands, and my phone stopped ringing. Then the
+number called again. I took the call. "Hello?"
 
-I wanted Anon to have me. It was not payment. For him, it was a gift.
-But for me, it was a surrender.
+"Miss Mamela Nwabisa?"
 
-I thought I understood the stakes.
+"Yes, speaking."
 
-I had no idea.
+"Please hold for the president."
+
+Shit. Now what?
+
+"Hi, Mamela?" asked his familiar voice. Deep. Warm. A leather armchair
+of a voice.
+
+"Yes, Mr President."
+
+"Please, Mamela, I feel we know each other well enough now for you to
+call me Joshua."
+
+"Uh, OK, uh, Joshua."
+
+"That's much better." I could hear his smile. "Mamela," he continued,
+"I called you personally, because I have a special project for you. You
+have done such wonderful, and truly amazing work for us before. But
+this project is different. And the incentive is personal.
+
+"I believe there is a system called 'Ethereum' that can be used to
+record assets and transactions. I know my government loses money in
+procurement processes to bribery. And I know that we cannot ever
+uncover all of it. But maybe this Ethereum system can close some gaps
+in government procurement, and remove some of the opportunities for
+corruption. Can you build a system that uses Ethereum for this? -- And
+before you answer, Mamela, let me tell you what's on the line, for you,
+personally.
+
+"Mamela, you know in our culture that marriage is about more than love.
+It is about deep, ancient, and wide relationships. Unlike in the West,
+where people marry because of a fleeting feeling, in our culture a
+woman becomes a part of her husband, and a man incorporates a wife into
+who he is. Love does not start a marriage, and then die out, and then
+the marriage ends in divorce. Rather, it is the marriage which starts a
+deep and lifelong love. You are such a beautiful, and such an
+intelligent woman. You make our nation proud. You have done so much for
+this country already. If you can successfully complete this last
+project, it would be an honour for me to incorporate you into who I am,
+as my wife."
+
+I was speechless.
+
+It wasn't that I didn't have anything to say. I had so much to say. I
+just didn't know how or where to start. Every little voice in my head
+was shouting at once.
+
+"I know this is a lot to take in," Joshua said. "I'm calling from my
+personal number. Think it over. Call me any time. Any time at all. But
+soon would be better because both of these issues, both you, and
+corruption, are close to my heart, and I will be waiting to hear from
+you."
+
+"OK," was all I managed to say.
+
+"OK, that's great. Have a good evening, Mamela."
+
+"OK. Bye. Joshua."
+
+"Goodbye."
+
+Wow.
+
+I phoned Anon. He loved the idea of an Ethereum-based procurement
+system. He was silent on the idea of marrying the president.
+
+I tried to sleep. I couldn't. I phoned Anon again. I asked him directly
+about marrying the president. He was like, "Well, you'd have anything
+you want ... but."
+
+"But, what, Anon?"
+
+"But I'll never be able to sleep on your couch again. I'll never make
+you my spaghetti bolognese."
+
+"OK, wait, maybe no to sleeping on the couch, but you can always make
+me your spaghetti bolognese. If I'm the president's wife, then I can
+appoint you as my official spaghetti bolognese chef."
+
+"Yeah," he said, but it didn't sound like "yeah." It sounded like "Not
+really." It sounded like "That's not the point, Mela. I don't want to
+make you spaghetti bolognese. I want what we have. I want to sit on
+the couch next to you. I want to feel your shoulder against mine. I
+want to watch the way you slurp your noodles." But Anon didn't say that.
+
+He thought about how this project would be the last project of its
+kind. He thought this project would give him his last opportunities to
+come over and eat spaghetti bolognese with me. Maybe he'd move back in
+and sleep on the couch again. He didn't say any of that either. He just
+said, "You should do it, Mela. Our country needs a system like this.
+And being the president's wife, it's obviously the best thing for you,
+right? You should say 'yes'."
+
+After we hung up, I lay in bed, and I wondered whether Joshua was lying
+in bed awake too. Whether he really was waiting for my call.
+
+So I called him. And if he had been sleeping, it didn't sound like it.
+
+"Mamela!" he answered.
+
+"Hi, Joshua."
+
+"Is it a 'yes'?"
+
+"Yes, Joshua, it's a 'yes'."
+
+"That is wonderful! I will have my office call you in the morning, and
+they will arrange everything, as usual."
+
+"Thank you."
+
+"No, thank you, Mamela. This is the best news I have heard all month.
+Now you sleep well."
+
+"OK. Goodnight."
+
+"Goodnight."
+
+Anon arrived the next morning, in his red Golf, with his sleeping bag
+and two bags of groceries. He made us coffee and scrambled some eggs.
+He drove with me to class, and he was thinking out loud, "Ethereum is
+so cool. Do you know how cool Ethereum is? It is super cool, Mela.
+We're going to need an app for handheld devices to scan QR codes. Do
+you think we'll need to support low-connectivity environments? Yes, I
+think we'll have to. We'll have to record transactions on the device
+when it's offline, and sync later. The device won't be able to store
+the entire Ethereum blockchain, but we'll have to send it enough data
+to process the asset's workflow. And the workflow itself will need to
+be user-determined. We can build it with templates, like building
+blocks, and provide a set, but allow it to be extended."
+
+He kept talking all the way, bouncing ideas off me, exploring tangents.
+I realised early on that this was going to be bigger than the last
+project. Much bigger. This would take a small startup a year to get a
+basic system. Anon couldn't do this with just a few friends. I told him
+so.
+
+"Oh, don't you worry. I have a lot of friends. And some people who owe
+me big. Also, ours isn't the only country that needs this. Other
+countries. International corporations. Because we're building this for
+the government, I can't license the code, but if it's open source from
+the beginning, I can sell consulting services on top of it. So that's a
+services-based startup right there. I can sell that startup to a large
+software corporation that's trying to do the same thing, like Microsoft
+or IBM, so they get our expertise, and we can service their customer
+base. That's an investment opportunity. I can find contractors who will
+want a piece of that."
+
+I told the Office of the Presidency that I'd only be able to do this in
+nine month's time. I didn't think I could push it to a year. I said I'd
+need to do a lot of research first, and of course I had my own studies,
+and exams, etc. They agreed to the date.
+
+In the meantime, Anon registered a company, built a team, and laid down
+a framework. We quickly settled into our old work routine. I learned
+about mobile interface design and development. Anon called in a favour
+from a lawyer, issued private shares to developers, and some carefully
+chosen and well-connected friends, and friends of friends. He hired a
+small office. This wasn't like the other projects. This was a business.
+
+But every evening Anon and I would come back to my place, and keep
+working, breaking to have supper on the couch.
+
+I liked this Anon. Previously Anon was sweet. Cute even. This Anon was
+more enthusiastic, more confident, sexier.
+
+The platform started to take shape. Asset ownership was working.
+Templates and workflows were working. Off-line transactions were
+working. On-line syncing was working. Client-side encryption was
+working. Transaction spoof detection was working. Dashboards and
+aggregated reports, done. APIs for monitoring workflows, and exporting
+data, done. Two months before I was going to be spending an unnecessary
+weekend in a hotel, Anon already had a few customers using the software
+in pilot projects.
+
+One evening, a few days before the hotel weekend, Anon had made his
+signature spaghetti. I watched him watching me slurp a noodle. Then I
+waited for him to take a forkful in his mouth, and I caught the other
+end of a long noodle, and put it in my mouth.
+
+A little cheesy, I know. Cheesier than the cheddar on the bolognese.
+But he grinned like crazy. And my heart thumped heavily. And I slurped
+all the way up to his mouth.
+
+I hadn't thought this through. Slurping a noodle is completely
+different from kissing. Kissing a mouthful of pasta is not sexy.
+
+But he got the message. We chewed hurriedly, swallowed awkwardly, put
+our bowls aside, and kissed. And kissed some more. And pulled off
+clothing. And, well, Anon didn't sleep on the couch after that.
+
+I had spent the build-up to the weekend in the hotel preparing the
+presentation and training material.
+
+By the time the weekend came, everything was done. There was nothing
+left to do. Except one thing ... Anon's reward. I had gone shopping for
+underwear. Several pairs, in different styles. And maybe I had
+purchased a toy or two from adamandeve.com. I removed every undesirable
+follicle from my body. I had a manipedi and I got my hair done. I hardly
+ever wore make-up, and I didn't want the hotel staff to suspect
+anything, so I just did my eyes myself.
+
+The moment I arrived in the hotel suite, I ordered the seafood platter
+from room service, a bottle of Champagne, and the black forest gatteau;
+not a couple of slices, the whole thing.
+
+When Anon let himself in from the bedroom, I was already in the silk
+negligee. He stared at me, "What?"
+
+"This is your reward this time: Me. I love you, Anon. I will always
+love you. I will always keep you, here, in my heart. So I want you to
+have me. Even if this is our last weekend, I want it to be the best
+weekend of your entire life.
+
+"Shall we start with the Champagne?"
+
+"Fuck no! I'm going to start with you!" And in true, clumsy-cute
+Anon-style romance, he fireman-lifted me over his shoulder, and charged
+back into the bedroom he'd just emerged from, dumped me onto the bed,
+and pulled off the panties I'd spent about an hour carefully selecting,
+without even noticing how the lacework delicately elaborated on my
+painstakingly preened lady parts.
+
+"Nice lace," he whispered in my ear, as he struggled his way out of his
+jeans.
+
+Well, I thought, OK. I'm glad I'd spent that hour choosing them then.
+
+I'll skip the details. I'll mention by Sunday morning the cake was
+finished. The bed had chocolate icing and Champagne on it. There was
+cheese and Peppadews from the pizza I had ordered at some point on
+Saturday night smeared into the pile carpet. My body ached like an
+athlete's, but not in the places most athletes ache. I was happier than
+I'd ever been in my life. Anon was spent, many times over. And we had
+had a damn good cry at some point, kissed through the tears, and then
+fucked through the kisses.
+
+Sometimes the greatest moments in life are as great as they are because
+you know they will end.
+
+Like life. I don't believe in heaven any more. You live life more fully
+when you know that it's all you're ever going to get.
+
+Joshua clapped at several points through the presentation. The
+ministers in attendance gave me a standing ovation.
+
+At the end of it, in front of his ministers, he came forward, and put
+out his hand as if to shake mine, and then dropped to his knee. He
+pulled out a little box from his jacket pocket, and as he opened it to
+reveal a large, shiny stone, mounted high on a silver ring, he asked,
+"Will you do me the honour, Mamela Nwabisa, to accept my offer of a
+lifetime of my love."
+
+I smiled. And I cried, for Anon, for the choice I was making, for my
+dad and the rest of my family, for my future. I'm sure Joshua thought I
+was crying because that's what a girl might do when the president
+proposes to her. I looked him in the eye, still smiling, and said,
+"Yes."
 
 
 Ben
@@ -257,7 +667,7 @@ president, cuckolded. It would by shameful, disrespectful,
 dishonourable. I was about to ruin my husband's career, my life, my
 dad's life, everything.
 
-I named my son Ben. Not Benjamin. Just Ben, after "Ben oni", Hebrew for
+I named my son Ben. Not Benjamin. Just Ben, after "ben oni", Hebrew for
 "son of my sorrow".
 
 The doctor said it would be OK. Race is a complicated thing, and it
@@ -295,9 +705,9 @@ completely misunderstood. He thought I wanted to hear from him. He
 phoned me on my old phone, from a number I didn't have in my contacts.
 Probably a sim card he bought on the street. All he said was, "It's me".
 I was shopping. An agent was nearby. I mumbled into the phone "I can't
-speak, we can't, you must never call me, hide, I love you," and I hung
-up. I glanced at the agent, but he wasn't looking at me. I thought he
-must have missed it.
+speak, we can't, you must never call me, hide," I whispered "I love
+you," and I hung up. I glanced at the agent, but he wasn't looking at
+me. I thought he must have missed it.
 
 But he didn't.
 
