@@ -630,8 +630,8 @@ cheese and Peppadews from the pizza I had ordered at some point on
 Saturday night smeared into the pile carpet. My body ached like an
 athlete's, but not in the places most athletes ache. I was happier than
 I'd ever been in my life. Anon was spent, many times over. And we had
-had a damn good cry at some point, kissed through the tears, and then
-fucked through the kisses.
+had a damn good cry at some point, worked through the tears with
+kisses, and then worked through the kisses with sex.
 
 Sometimes the greatest moments in life are as great as they are because
 you know they will end.
@@ -690,10 +690,12 @@ letters to the presidency from people we are unable to thank. We may not
 have time to get back to everyone, but we would like to be able to."
 
 I didn't know if he'd get the message. And even if he did, I didn't know
-whether he'd understand it. It was a bit obscure. But it had to be.
+whether he'd understand it. It was a bit obscure. But it had to be. It
+caused confusion in the press, and among the population, and I had to
+come up with some lame explanation afterwards. It was a bit of a mess.
 
-I missed him so badly. My son had his reckless grin. His kind, generous,
-loving eyes. I missed him so badly. I missed him even more for knowing I
+I missed Anon so badly. My son had his reckless grin. His kind,
+generous, loving eyes. So badly. I missed him even more for knowing I
 could never see him again.
 
 
@@ -701,13 +703,13 @@ Noah
 ----
 
 Anon got my message. But the idiot (and I mean that in the kindest way)
-completely misunderstood. He thought I wanted to hear from him. He
-phoned me on my old phone, from a number I didn't have in my contacts.
-Probably a sim card he bought on the street. All he said was, "It's me".
-I was shopping. An agent was nearby. I mumbled into the phone "I can't
-speak, we can't, you must never call me, hide," I whispered "I love
-you," and I hung up. I glanced at the agent, but he wasn't looking at
-me. I thought he must have missed it.
+completely misunderstood. He phoned me on my old phone, from a number I
+didn't have in my contacts. Probably a sim card he bought on the
+street. All he said was, "It's me". I was shopping. An agent was
+nearby. I mumbled into the phone "I can't speak, we can't, you must
+never call me, hide," I whispered "I love you," and I hung up. I
+glanced at the agent, but he wasn't looking at me. I thought he must
+have missed it.
 
 But he didn't.
 
@@ -738,16 +740,21 @@ Americans, in exchange for a little intelligence. VPNs are not private
 -- remember that, Baby. And cellphones -- there's no such thing as an
 anonymous phone call."
 
-But I wasn't listening. I couldn't hear him any more. Tears were
-silently slicing down my cheeks. I did not want to be next to him, but I
-couldn't leave. I waited until the show was finished, and then took a
-shower. I sat on the shower floor, and let the hot water burn away my
-sobs.
+But I wasn't listening. I couldn't hear him explaining, "I had no
+choice, Mamela. You know he could have filed for paternity. You know he
+could have taken your first-born." I wasn't listening and I couldn't
+argue. Tears were silently slicing down my cheeks. I did not want to be
+next to him, but I couldn't leave. I waited until the show was
+finished, and then took a shower. I sat on the shower floor, and let
+the hot water burn away my sobs.
 
 Anon: Almost an anagram of Noah. And Rampele-Stilton: The cheese in
 ch33s33g33k. I had finally caught his joke, after his death.
 
 I loved you for the rest of my life, Anon. I have poured my love for you
-into our son. I mixed it with my love for him. I imagined that if I mix
-the love for two people together, and give it all to him, then he would
-get some of the love that you were never able to give him.
+into our son, who you never got to meet.
+
+Those who are remembered never truly die. I have released this document
+so that all may know the real story of Noah Rampele-Stilton, whose name
+he kept a secret. Now we will remember him for the amazing man, and the
+unknown hero, and the object of my love, that he really was.
