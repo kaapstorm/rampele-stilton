@@ -25,13 +25,13 @@ with his friends at school.
 
 When I was eighteen, my father had some business in England and
 Scotland, and he had the chance to see South Africa play Scotland at
-Murraysfield in Edinburgh. He found that his seat was immediately in
+Murrayfield in Edinburgh. He found that his seat was immediately in
 front of our own president, who was watching the game with an old friend
 of his whom my father did not recognise, and they were flanked by two
 bodyguards. My father was so impressed with himself that here he was,
 sitting just in front of his president. He was racking his brain to
 think of something to say to introduce himself. He was listening to
-every word the president and his friend were saying to each other. There
+every word the president and his friend were saying to each other. They
 were not discussing politics. They were talking about their old school
 friends, and Facebook, and at some point the president mentioned that he
 needed some kind of online persona that portrayed him in a good light to
